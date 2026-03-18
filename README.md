@@ -18,26 +18,21 @@ CODE_ORGANIZATION: code-sena
 
 ###
 
-<h1 align="center">Juan Sebastian Gonzalez Horta</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=jsgh1&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
 </p>
 
----
+###
 
-## 📌 Perfil
-- **Nombre:** Juan Sebastian Gonzalez Horta
-- **GitHub:** [@jsgh1](https://github.com/jsgh1)
-- **Email:** [juansebastiangonzalezhorta.inem@gmail.com
-](mailto:juansebastiangonzalezhorta.inem@gmail.com
-)
-- **Organización institucional:** [code-sena](https://github.com/code-sena)
+<h1 align="center">Hello World!!</h1>
 
----
+###
 
-## 🚀 Repositorio institucional
-Este repositorio está asociado a la organización **code-sena**.
+<h2 align="center">Eu sou o PRK</h2>
+
+###
+
+<h3 align="center">Bienvenido a mi Bio</h3>
 
 ###
 
@@ -65,7 +60,10 @@ Este repositorio está asociado a la organización **code-sena**.
 
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsgh1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsgh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
