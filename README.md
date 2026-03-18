@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Juan Sebastian Gonzalez Horta
+GITHUB_USER: jsgh1
+EMAIL: juansebastiangonzalezhorta.inem@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 <div align="center">
   <img height="35" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
