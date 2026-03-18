@@ -10,15 +10,26 @@
 
 ###
 
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Juan Sebastian Gonzalez Horta</h1>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
 
-<h2 align="center">Eu sou o PRK</h2>
+---
 
-###
+## 📌 Perfil
+- **Nombre:** Juan Sebastian Gonzalez Horta
+- **GitHub:** [@jsgh1](https://github.com/jsgh1)
+- **Email:** [juansebastiangonzalezhorta.inem@gmail.com
+](mailto:juansebastiangonzalezhorta.inem@gmail.com
+)
+- **Organización institucional:** [code-sena](https://github.com/code-sena)
 
-<h3 align="center">Bienvenido a mi Bio</h3>
+---
+
+## 🚀 Repositorio institucional
+Este repositorio está asociado a la organización **code-sena**.
 
 ###
 
